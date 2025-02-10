@@ -17,7 +17,8 @@ This project implements a **Movie Recommender System** using **Collaborative Fil
 The project uses the **MovieLens dataset**, which contains user ratings and movie details. Ensure you have the following files in the working directory:  
 
 - **`ratings.csv`** – Contains user ratings (`userId`, `movieId`, `rating`)  
-- **`movies.csv`** – Contains movie metadata (`movieId`, `title`)  
+- **`movies.csv`** – Contains movie metadata (`movieId`, `title`) 
+Data set can be downloaded from this link https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset 
   
 
 ---
